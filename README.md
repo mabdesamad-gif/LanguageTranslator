@@ -27,30 +27,23 @@ This application allows users to translate text into multiple languages, listen 
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
-## 🏠 Home Page
+### 🏠 Home Page
 
-![Home](screenshots/Home-1.PNG)
+![Home](screenshots/home-1.png)
 
----
+### 🎨 User Interface
 
-## 🎨 User Interface
+![Interface](screenshots/home-2.png)
 
-![Interface](screenshots/Home-2.PNG)
+### 🌍 Translation Example
 
----
+![Translation](screenshots/translation-1.png)
 
-## 🌍 Translation Example
+### 🕘 Translation History
 
-![Translation](screenshots/translation-1.PNG)
-
----
-
-## 🕘 Translation History
-
-![History](screenshots/translation-2.PNG)
-
+![History](screenshots/translation-2.png)
 ---
 
 # 🚀 Installation
