@@ -2,7 +2,7 @@
 
 A modern AI-powered Language Translator built using **Python**, **Streamlit**, **Deep Translator**, and **Google Text-to-Speech (gTTS)**.
 
-This application allows users to translate text into multiple languages, listen to the translated speech, download the translation, and view translation history through a clean and user-friendly interface.
+This application allows users to translate text into multiple languages, listen to translated speech, download the translated text, and keep a history of previous translations through a clean and user-friendly interface.
 
 ---
 
@@ -10,7 +10,7 @@ This application allows users to translate text into multiple languages, listen 
 
 - 🌍 Translate text into multiple languages
 - 🔄 Swap source and target languages
-- 🔊 Listen to translated text (Text-to-Speech)
+- 🔊 Text-to-Speech (TTS)
 - 📥 Download translated text as a `.txt` file
 - 🕘 Translation history
 - ⚠️ Error handling
@@ -27,23 +27,30 @@ This application allows users to translate text into multiple languages, listen 
 
 ---
 
-## 📷 Screenshots
+# 📷 Screenshots
 
-### 🏠 Home Page
+## 🏠 Home Page
 
-![Home](screenshots/home-1.png)
+![Home](./screenshots/Home-1.PNG)
 
-### 🎨 User Interface
+---
 
-![Interface](screenshots/home-2.png)
+## 🎨 User Interface
 
-### 🌍 Translation Example
+![Interface](./screenshots/Home-2.PNG)
 
-![Translation](screenshots/translation-1.png)
+---
 
-### 🕘 Translation History
+## 🌍 Translation Example
 
-![History](screenshots/translation-2.png)
+![Translation](./screenshots/translation-1.PNG)
+
+---
+
+## 🕘 Translation History
+
+![History](./screenshots/translation-2.PNG)
+
 ---
 
 # 🚀 Installation
@@ -54,13 +61,13 @@ This application allows users to translate text into multiple languages, listen 
 git clone https://github.com/mabdesamad-gif/LanguageTranslator.git
 ```
 
-### 2. Go to the project folder
+### 2. Navigate to the project folder
 
 ```bash
 cd LanguageTranslator
 ```
 
-### 3. Install the required libraries
+### 3. Install the required dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -97,10 +104,10 @@ LanguageTranslator/
 # 🎯 Future Improvements
 
 - 🌐 Support more languages
-- 📋 Copy translated text
+- 📋 Copy translated text with one click
 - 🎙 Speech-to-Text input
 - 🤖 AI-powered translation suggestions
-- ☁️ Deploy online using Streamlit Community Cloud
+- ☁️ Deploy the application on Streamlit Community Cloud
 
 ---
 
@@ -110,12 +117,15 @@ LanguageTranslator/
 
 AI & Cloud Engineering Student
 
+**Skills**
+
 - Python
 - Artificial Intelligence
 - Cloud Computing
 - Networking
 
-GitHub:
+**GitHub**
+
 https://github.com/mabdesamad-gif
 
 ---
@@ -126,6 +136,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# ⭐ If you like this project
+# ⭐ Support
 
-Give it a ⭐ on GitHub and feel free to contribute or share your feedback!
+If you like this project, don't forget to ⭐ star the repository and share your feedback.
